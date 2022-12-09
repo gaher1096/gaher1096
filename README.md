@@ -35,9 +35,11 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaher1096&hide_border=true&layout=compact" align="center" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaher1096&" alt="gaher1096" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaher1096&" alt="gaher1096" /></div>
 
-<br />
+<br/>  
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gaher1096&&style=flat-square" align="center" />
+</div>  
+
