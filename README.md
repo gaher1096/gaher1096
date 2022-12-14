@@ -22,7 +22,8 @@
 <a href="https://stackoverflow.com/users/gaher1096" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+<div align="center">Web: <a href="https://gaher1096.com/" target="_blank">gaher1096</a></div>
   
 
 <br/>  
