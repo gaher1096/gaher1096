@@ -19,7 +19,7 @@
 <a href="https://gitlab.com/gaher1096" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/gaher1096" target="_blank">
+<a href="https://stackoverflow.com/users/8287041/gabriel-hernan-ordo%c3%b1ez-achury" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>
