@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** [Finzumo](https://github.com/gaher1096/Finzumo) - A personal finance platform for Colombia
+- 🔭 **Currently working on:** [Finzumo](https://finzumo.com.co) - A personal finance platform for Colombia
 - 🌱 **Learning:** Advanced Angular, Django REST Framework, and Cloud Architecture
 - 💼 **Working as:** Freelance Full Stack Developer
 - 🎯 **Focus:** Building fintech solutions that democratize financial management
@@ -23,15 +23,15 @@
 
 <div align="center">
 
-### 🚀 [Finzumo - Personal Finance Platform](https://github.com/gaher1096/Finzumo)
+### 🚀 [Finzumo - Personal Finance Platform](https://finzumo.com.co)
 **Full-stack fintech application built with Angular + Django**
 <br>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
-### 🌐 [Finzumo Landing Page](https://github.com/gaher1096/Finzumo-landing)
-**High-converting landing page with PHP backend**
+### 🌐 [Finzumo Landing Page](https://finzumo.com.co)
+**High-converting landing page with PHP backend and lead capture**
 <br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -51,6 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
 ### **Backend Development**
@@ -73,7 +74,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ---
@@ -86,7 +87,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaher1096&theme=tokyonight&hide_border=true" alt="gaher1096" />
+  <img src="https://streak-stats.demolab.com/?user=gaher1096&theme=tokyonight&hide_border=true" alt="gaher1096" />
 </div>
 
 ---
